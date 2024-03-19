@@ -16,3 +16,6 @@ npm run dev
 ```
 
 ---
+
+Visit the link below to have a look! ⬇️
+  https://codesandbox.io/p/github/tanmaysri98/ecommerce-fakestoreapi/main?import=true&embed=1&file=%2Fsrc%2Fmain.jsx
